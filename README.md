@@ -29,8 +29,10 @@ def get_balance(user_id):
     return database.get(user_id) # Returns data to anyone who asks
 
 
-3. The Result
-Full exfiltration of the administrative account balance ($1.5 Billion - fictional).
+### 3. The Result
+Full exfiltration of the administrative account balance (**$1.5 Billion** - fictional).
+
+![Bank Vulnerability Proof](print_bank.png.png) 
 
 
 🔐 Project 2: PyAudit - Elite Password Cracker
