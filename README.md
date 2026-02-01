@@ -32,11 +32,15 @@ def get_balance(user_id):
 ### 3. The Result
 Full exfiltration of the administrative account balance (**$1.5 Billion** - fictional).
 
-![Bank Vulnerability Proof](print_bank.png) 
+<img width="2817" height="1497" alt="print_bank png" src="https://github.com/user-attachments/assets/c7c8213d-c9c2-4db3-b9b3-336690f829d0" />
+
 
 
 🔐 Project 2: PyAudit - Elite Password Cracker
 I developed a custom CLI tool for Red Team operations to audit weak password policies via dictionary attacks.
+
+<img width="2817" height="1475" alt="print_tool png" src="https://github.com/user-attachments/assets/325c1fc8-0ce2-4f3a-b78a-b7be02e78ace" />
+
 
 Features:
 
