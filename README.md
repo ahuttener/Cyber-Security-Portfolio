@@ -8,7 +8,7 @@ This repository showcases a complete **Offensive Security Simulation**, demonstr
 - **Concept:** Broken Object Level Authorization (BOLA) / IDOR
 - **Tools:** Custom Python Scripts (CLI)
 
----
+```
 
 ## 🚩 Project 1: The "Billion Dollar" Bank Hack (Simulation)
 **Scenario:** A controlled environment simulating a Digital Bank API hosted on a local server. The goal was to compromise high-value assets by exploiting logic flaws.
