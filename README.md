@@ -1,5 +1,4 @@
- ``` 
-🏦CyberSec Portfolio: Vulnerable Bank API & PyAudit Tool
+# 🏦 CyberSec Portfolio: Vulnerable Bank API & PyAudit Tool
 
 This repository showcases a complete **Offensive Security Simulation**, demonstrating skills in Python scripting, API vulnerability exploitation (IDOR/BOLA), and password auditing.
 
